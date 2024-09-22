@@ -1,0 +1,4 @@
+.env
+venv_notion/
+notion_integration_colab.ipynb
+.DS_Store
